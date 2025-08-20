@@ -6,7 +6,9 @@ A modern, lightweight community chat/forum application built with React Native a
 
 - **Groups List**: Browse available focus groups with titles, descriptions, and member counts
 - **Join/Leave Groups**: Simple one-tap functionality to join or leave groups
-- **Group Chat**: Real-time chat interface for group discussions
+- **Group Chat**: Real-time chat interface for group discussions (users can only chat in a group after joining)
+- **Access Control**: Users cannot chat in a group until they join it
+- **Profile Joined Groups**: Users can see the total number of groups they've joined in their profile
 - **Tab Navigation**: Intuitive navigation structure
 - **Responsive Design**: Works seamlessly on iOS and Android
 
