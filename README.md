@@ -115,3 +115,18 @@ Groups List → Group Detail
 - Image and file sharing in chats
 - Group creation and management
 - Search and filtering capabilities
+
+## Explanations of Design Choices
+
+- **Expo Router**: Chosen for its file-based routing and seamless navigation experience in React Native apps.
+- **Context API**: Used for global state management to keep the app simple and avoid extra dependencies.
+- **TypeScript**: Ensures type safety and reduces runtime errors.
+- **Component Structure**: UI components are modular and reusable for maintainability.
+- **SafeAreaView**: Used to handle device status bar and notches for a consistent UI.
+- **Access Control**: Users must join a group before chatting, improving privacy and engagement.
+
+## Time Spent on Each Part
+
+- **part 1**: 5 hour
+- **part 2**: 30 minutes
+- **part 3**: 20 minutes
